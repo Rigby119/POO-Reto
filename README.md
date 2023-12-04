@@ -15,7 +15,7 @@ Este programa tiene 5 clases:
  - Pokédex
  - Pokémon
 
-El diagrama de clases estará adjunto en la entrega final en eLumen.
+El diagrama de clases está adjunto a este repos.
 
 Las competencias a evaluar en estos archivos son:
 
@@ -25,7 +25,7 @@ Esta competencia se puede evaluar en cualquier clase, sin embargo, recomiendo la
 
  - Modelo un diagrama de clase útil para solucionar un problema utilizando UML.
 
-Esto se evalúa con el UML subido a eLumen
+Esto se evalúa con el UML adjunto
 
  - Utilizo el concepto de herencia en el diagrama de clases de manera adecuada.
 
